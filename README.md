@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrogabrielcb&label=Profile%20views&color=0e75b6&style=flat" alt="pedrogabrielcb" /> </p>
 
-- 🔭 Trabalhando na **Equals S.A**
+- 🔭 Trabalhando na **Equals S.A (Conciliadora da Stone)**
 
 - 🌱 Atualmente estou focando em: **React Native, React JS e Infra as code**
 
