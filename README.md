@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Pedro Gabriel Sousa</h1>
-<h3 align="center">Desenvolvedor ReactJS,DevOps</h3>
+<h3 align="center">DevOps e nas horas vagas Desenvolvedor ReactJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrogabrielcb&label=Profile%20views&color=0e75b6&style=flat" alt="pedrogabrielcb" /> </p>
 
